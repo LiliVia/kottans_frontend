@@ -16,3 +16,7 @@ but next courses gave me much more understanding of this topic_
 [completed Version Control with Git and Github courses](./task_2)
 
 _Really awesome courses! **Completed courses - completed undestanding**_
+
+## Task 3
+
+[completed Intro to HTML & CSS](./task_3)
