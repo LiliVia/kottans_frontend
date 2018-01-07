@@ -20,3 +20,7 @@ _Really awesome courses! **Completed courses - completed undestanding**_
 ## Task 3
 
 [completed Intro to HTML & CSS](./task_3)
+
+## Task 4
+
+[completed Responsive Web Design Fundamentals](./task_4)
