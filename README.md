@@ -24,3 +24,7 @@ _Really awesome courses! **Completed courses - completed undestanding**_
 ## Task 4
 
 [completed Responsive Web Design Fundamentals](./task_4)
+
+## Task 5
+
+[completed Intro to JavaScript](./task_5)
